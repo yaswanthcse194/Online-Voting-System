@@ -1,0 +1,947 @@
+1	Gummidipoondi		DMK	T. J. Govindrajan		AIADMK	V. Sudhakar
+2	Ponneri (SC)		INC	Durai Chandrasekar		AIADMK	P. Balaraman
+3	Tiruttani		DMDK	D. Krishnamoorthy		AIADMK	G. Hari
+4	Thiruvallur		DMK	V. G. Raajendran		AIADMK	B. V. Ramana
+5	Poonamallee (SC)		DMK	A. Krishnaswamy		AMMK	T. A. Elumalai
+6	Avadi		DMK	S. M. Nasar		BJP	M. Rajasimha Mahendra
+Chennai	7	Maduravoyal		DMK	K. Ganapathy		AIADMK	P. Benjamin
+8	Ambattur		DMK	A. P. Poornima		PMK	K. N. Sekar
+
+9	Madhavaram		DMK	S. Sudharsanam		AIADMK	V. Moorthy
+10	Thiruvottiyur		CPI(M)	L. Sundararajan		AIADMK	K. Kuppan
+11	Dr. Radhakrishnan Nagar		DMK	J. John Ebenezer		AIADMK	R. S. Rajesh
+12	Perambur		DMK	R. D. Shekar		PMK	M. Thilagabama
+13	Kolathur		DMK	M. K. Stalin		AIADMK	P. Santhana Krishnan
+14	Villivakkam		DMK	Karthik Mohan		AIADMK	S. R. Vijayakumar
+15	Thiru-Vi-Ka-Nagar (SC)		DMK	K. S. Ravichandran		AIADMK	Porkodi Armstrong[c]
+16	Egmore (SC)		DMK	Tamilan Prasanna		AIADMK	Abishek Rengasamy
+17	Royapuram		DMK	Subair Khan		AIADMK	D. Jayakumar
+18	Harbour		DMK	P. K. Sekar Babu		AIADMK	R. Manohar
+19	Chepauk-Thiruvallikeni		DMK	Udhayanidhi Stalin		AIADMK	Adhi Rajaram
+20	Thousand Lights		DMK	Ezhilan Naganathan		AIADMK	B. Valarmathi
+21	Anna Nagar		DMK	N. Chitrarasu		AIADMK	Gokula Indira
+22	Virugambakkam		DMK	A. M. V. Prabhakara Raja		AIADMK	V. N. Ravi
+23	Saidapet		DMK	Ma. Subramanian		AMMK	G. Senthamizhan
+24	Thiyagarayanagar		DMK	Raja Anbalagan		AIADMK	B. Sathyanarayanan
+25	Mylapore		DMK	Dha. Velu		BJP	Tamilisai Soundararajan
+26	Velachery		INC	J. M. H. Aassan Maulaana		AIADMK	M. K. Ashok
+27	Sholinganallur		DMK	S. Aravind Ramesh		AIADMK	K. P. Kandan
+28	Alandur		DMK	T. M. Anbarasan		AIADMK	S. Saravanan
+Kanchipuram	29	Sriperumbudur (SC)		INC	K. Selvaperunthagai		AIADMK	K. Palani
+Chengalpattu	30	Pallavaram		DMDK	D. Murugesan		AIADMK	Venkatesan[d]
+31	Tambaram		DMK	R. S. Krithika Devi		AIADMK	Chitlapakkam C. Rajendran
+32	Chengalpattu		DMK	M. K. T. Karthik Dhandapani		AIADMK	M. Gajendran
+33	Thiruporur		VCK	Panneer Doss		PMK	K. Balu
+34	Cheyyur (SC)		VCK	Sinthanai Selvan		AIADMK	E. Rajashekar
+35	Madurantakam (SC)		DMK	S. Amulu Ponmalar		AIADMK	Maragatham Kumaravel
+Kanchipuram	36	Uthiramerur		DMK	K. Sundar		PMK	P. Maheshkumar
+37	Kancheepuram		DMK	Nithya Sugumar		AIADMK	V. Somasundaram
+Ranipet	38	Arakkonam (SC)		VCK	Ezhil Caroline		AIADMK	S. Ravi
+39	Sholinghur		INC	A. M. Munirathinam		PMK	K. Saravanan
+Vellore	40	Katpadi		DMK	Durai Murugan		AIADMK	V. Ramu
+Ranipet	41	Ranipet		DMK	R. Gandhi		BJP	V. M. Karthikeyan[e]
+42	Arcot		DMK	J. L. Eswarappan		AIADMK	S. M. Sukumar
+Vellore	43	Vellore		DMK	P. Karthikeyan		AIADMK	S. R. K. Appu
+44	Anaikattu		DMK	A. P. Nandakumar		AIADMK	T. Velazhagan
+45	Kilvaithinankuppam (SC)		DMK	Rajeswari Mohankandhi		AIADMK	M. Jagan Moorthy[f]
+46	Gudiyattam (SC)		DMDK	K. B. Pratap		AIADMK	G. Faridha Purushothaman
+Tirupathur	47	Vaniyambadi		IUML	Sayyed Farooq		AIADMK	G. Senthilkumar
+48	Ambur		DMK	A. C. Vilvanathan		AIADMK	R. Venkatesan
+49	Jolarpet		DMK	Kavitha Dhandapani		AIADMK	K. C. Veeramani
+50	Tirupattur		DMK	A. Nallathambi		AMMK	A. Gnanasekar
+Krishnagiri	51	Uthangarai (SC)		INC	R. Kuppusamy		AIADMK	T. M. Tamilselvam
+52	Bargur		DMK	D. Mathiazhagan		AIADMK	E. C. Govindarajan
+53	Krishnagiri		INC	A. Chellakumar		AIADMK	K. Ashok Kumar
+54	Veppanahalli		DMK	P. S. Sreenivasan		AIADMK	K. P. Munusamy
+55	Hosur		DMK	S. A. Sathya		AIADMK	P. Balakrishna Reddy
+56	Thalli		CPI	T. Ramachandran		BJP	Nagesh Kumar
+Dharmapuri	57	Palacode		DMK	S. Senthilkumar		AIADMK	K. P. Anbalagan
+58	Pennagaram		INC	G. K. M. Tamilkumaran		PMK	V. Selvam
+59	Dharmapuri		DMDK	V. Elangovan		PMK	Sowmiya Anbumani
+60	Pappireddippatti		DMK	P. Palaniappan		AIADMK	Maragatham Vetrivel
+61	Harur (SC)		DMK	A. Shanmugam		AIADMK	V. Sampathkumar
+Tiruvannamalai	62	Chengam (SC)		DMK	M. P. Giri		AIADMK	T. S. Velu
+63	Tiruvannamalai		DMK	E. V. Velu		BJP	C. Ezhumalai
+64	Kilpennathur		DMK	K. Pitchandi		AIADMK	S. Ramachandran
+65	Kalasapakkam		DMK	P. S. T. Saravanan		AIADMK	Agri S. S. Krishnamurthy
+66	Polur		DMDK	T. P. Saravanan		PMK	C. R. Bhaskaran
+67	Arani		DMK	Mahalakshmi Govarthanan		AIADMK	L. Jaya Sudha
+68	Cheyyar		DMK	O. Jothi		AIADMK	Mukkur N. Subramanian
+69	Vandavasi (SC)		DMK	Ambethkumar		AIADMK	P. Rani
+Viluppuram	70	Gingee		DMK	K. S. Masthan		PMK	A. Ganeshkumar
+71	Mailam		DMDK	L. Venkatesan		AIADMK	C. Ve. Shanmugam
+72	Tindivanam (SC)		VCK	Vanniyarasu		AIADMK	P. Arjunan
+73	Vanur (SC)		DMK	Gautham Dravidamani		AIADMK	P. Murugan
+74	Villupuram		DMK	R. Lakshmanan		AIADMK	K. Vijaya
+75	Vikravandi		DMK	Anniyur Siva		PMK	C. Sivakumar
+76	Tirukkoyilur		DMK	Gautham Sigamani		AIADMK	S. Palaniswami
+Kallakurichi	77	Ulundurpettai		DMK	G. R. Vasanthavelu		AIADMK	R. Kumaraguru
+78	Rishivandiyam		DMK	Vasantham Karthikeyan		PMK	A. P. Chezhiyan
+79	Sankarapuram		DMK	T. Udhaya Suriyan		AIADMK	R. Rakesh
+80	Kallakurichi (SC)		VCK	Malathi		AIADMK	S. Rajiv Gandhi
+Salem	81	Gangavalli (SC)		DMK	K. Chinnadurai		AIADMK	A. Nallathambi
+82	Attur (SC)		INC	S. K. Arthanari		AIADMK	A. P. Jayasankaran
+83	Yercaud (ST)		DMK	T. M. Revathi Matheswaran		AIADMK	P. Usharani
+84	Omalur		DMDK	A. R. Elangovan		AIADMK	R. Mani
+85	Mettur		DMK	Mithun Chakravarthy		AIADMK	G. Venkatachalam
+86	Edappadi		DMK	Kasi		AIADMK	Edappadi K. Palaniswami
+87	Sangagiri		DMK	M. Manikandan		AIADMK	S. Vetrivel
+88	Salem (West)		DMDK	Azhagappuram Mohan Raj		PMK	M. Karthi
+89	Salem (North)		DMK	R. Rajendran		PMK	S. Sadhasivam
+90	Salem (South)		DMK	M. Loganathan		AIADMK	J. Vinodh
+91	Veerapandi		DMK	A. K. Tharun		AIADMK	Sri Balaji Sukumar
+Namakkal	92	Rasipuram (SC)		DMK	M. Mathivendhan		BJP	S. D. Premkumar
+93	Senthamangalam (ST)		DMK	P. Poomalar		AIADMK	C. Chandrashekhar
+94	Namakkal		DMK	P. Rani		AIADMK	Sridevi P. S. Mohan
+95	Paramathi-Velur		DMK	K. S. Moorthy		AIADMK	S. Sekar
+96	Tiruchengodu		KDMK	E. R. Eswaran[g]		AIADMK	R. Chandrashekhar
+97	Kumarapalayam		DMK	S. Balu		AIADMK	P. Thangamani
+Erode	98	Erode (East)		INC	Gobinath Palaniappan		AIADMK	R. Manoharan
+99	Erode (West)		DMK	S. Muthusamy		BJP	M. Yuvaraja[e]
+100	Modakkurichi		DMK	Senthilnathan[h]		BJP	Kirthika Sivakumar
+Tiruppur	101	Dharapuram (SC)		DMK	Indirani		AIADMK	P. Sathyabama
+102	Kangayam		DMK	M. P. Saminathan		AIADMK	N. S. N. Nataraj
+Erode	103	Perundurai		DMK	N. D. Venkatachalam		AIADMK	S. Jayakumar
+104	Bhavani		DMK	K. A. Chandrasekhar		AIADMK	K. C. Karuppannan
+105	Anthiyur		DMK	M. Sivabalan		AIADMK	P. Haribhaskar
+106	Gobichettipalayam		DMK	N. Nallasivam		AIADMK	V. B. Prabhu
+107	Bhavanisagar (SC)		CPI	P. L. Sundaram		AIADMK	A. Bannari
+Nilgiris	108	Udhagamandalam		INC	B. Ramachandran		BJP	Bhojarajan
+109	Gudalur (SC)		DMK	Dravidamani		AIADMK	Pon. Jayaseelan
+110	Coonoor		DMK	K. M. Raju		AIADMK	A. Ramu
+Coimbatore	111	Mettupalayam		DMK	Kavitha Kalyanachundaram		AIADMK	O. K. Chinnaraj
+Tiruppur	112	Avanashi (SC)		DMK	Gokilamani		BJP	L. Murugan
+113	Tiruppur (North)		CPI	Ravi Subramanian		AIADMK	M. S. M. Anandan
+114	Tiruppur (South)		DMK	K. Dineshkumar		BJP	S. Thangaraj
+115	Palladam		DMK	K. Selvaraj		AIADMK	K. P. Paramasivam
+Coimbatore	116	Sulur		DMK	S. Murugesan		AIADMK	V. P. Kandasamy
+117	Kavundampalayam		INC	K. P. Suryaprakash		AIADMK	P. R. G. Arunkumar
+118	Coimbatore (North)		DMK	Senthamizhselvan		BJP	Vanathi Srinivasan
+119	Thondamuthur		DMK	N. R. Karthikeyan		AIADMK	S. P. Velumani
+120	Coimbatore (South)		DMK	V. Senthil Balaji		AIADMK	Amman K. Arjunan
+121	Singanallur		INC	V. Srinidhi Naidu		AIADMK	K. R. Jayaraman
+122	Kinathukadavu		DMK	K. V. K. S. Sabari Karthikeyan		AIADMK	S. Damodaran
+123	Pollachi		KDMK	K. Nithyanandhan[g]		AIADMK	Pollachi V. Jayaraman
+124	Valparai (SC)		DMK	A. Sudhakar		AIADMK	D. Lakshmana Singh
+Tiruppur	125	Udumalaipettai		DMK	K. Radhakrishnan		AIADMK	Udumalai K. Radhakrishnan
+126	Madathukulam		DMK	R. Jayaramakrishnan		AMMK	C. Shanmugavelu
+Dindigul	127	Palani		CPI(M)	N. Pandi		AIADMK	K. Ravi Manoharan
+128	Oddanchatram		DMK	R. Sakkarapani		BJP	Vidiyal Sekar[e]
+129	Athoor		DMK	I. Periyasamy		AIADMK	A. Viswanathan
+130	Nilakottai (SC)		DMK	Nagajothi		AIADMK	S. Thaenmozhi
+131	Natham		DMK	K. K. Selvakumar[i]		AIADMK	Natham R. Viswanathan
+132	Dindigul		DMK	I. P. Senthilkumar		AIADMK	Dindigul C. Sreenivasan
+133	Vedasandur		DMK	S. Gandhirajan		AIADMK	V. P. B. Paramasivam
+Karur	134	Aravakurichi		DMK	Monjanur R. Elango		AIADMK	K. Selvakumar
+135	Karur		DMK	Asi. M. Thyagarajan		AIADMK	M. R. Vijayabhaskar
+136	Krishnarayapuram (SC)		DMK	C. K. Raja		AIADMK	S. Dhivya
+137	Kulithalai		DMK	Suriyanur A. Chandiran		AIADMK	S. Karunakaran
+Tiruchirappalli	138	Manapaarai		DMK	P. Abdul Samad[j]		AIADMK	P. L. Vijayakumar
+139	Srirangam		DMK	S. Durairaj		AIADMK	R. Manoharan
+140	Tiruchirappalli (West)		DMK	K. N. Nehru		AMMK	M. Rajasekhar
+141	Tiruchirappalli (East)		DMK	Inigo Irudhayaraj		AIADMK	K. Rajasekaran
+142	Thiruverumbur		DMK	Anbil Mahesh Poyyamozhi		AIADMK	P. Kumar
+143	Lalgudi		DMK	T. Parivallal		AIADMK	Leema Rose Martin
+144	Manachanallur		DMK	S. Kathiravan		AIADMK	R. V. Bharathan[k]
+145	Musiri		DMK	N. S. N. Karunairaja		AIADMK	N. Yoganathan
+146	Thuraiyur (SC)		INC	M. Vichu Lenin Prasath		AIADMK	E. Suroja
+Perambalur	147	Perambalur (SC)		DMK	S. D. Jayalakshmi		AIADMK	R. Thamizhselvan
+148	Kunnam		DMK	S. S. Sivasankar		AIADMK	Saranya Anbazhagan[d]
+Ariyalur	149	Ariyalur		DMK	Latha Balu		AIADMK	Thamarai S. Rajendran
+150	Jayankondam		DMK	Ka. So. Ka. Kannan		PMK	K. Vaithi
+Cuddalore	151	Tittakudi (SC)		DMK	C. V. Ganesan		AIADMK	N. Murugumaran
+152	Virudhachalam		DMDK	Premalatha Vijayakhanth		PMK	Tamilarasi Adhimoolam
+153	Neyveli		DMK	Saba. Rajendran		AIADMK	Sorathur R. Rajendran
+154	Panruti		VCK	Abdul Rahman		AIADMK	K. Mohan
+155	Cuddalore		INC	A. S. Chandrashekhar		AIADMK	M. C. Sampath
+156	Kurinjipadi		DMK	M. R. K. Panneerselvam		AIADMK	A. Bhuvanendhran
+157	Bhuvanagiri		DMK	Durai K. Saravana		AIADMK	A. Arunmozhithevan
+158	Chidambaram		DMK	Thamimun Ansari[l]		AIADMK	K. A. Pandian
+159	Kattumannarkoil (SC)		VCK	Jothimani Ilayaperumal		PMK	Anbu Cholan
+Mayiladuthurai	160	Sirkazhi (SC)		DMK	Senthil Selvan[h]		AIADMK	M. Sakthi
+161	Mayiladuthurai		INC	Jamal Yunus Muhammed		PMK	S. A. Palanichamy
+162	Poompuhar		DMK	Nivedha M. Murugan		AIADMK	S. Pavunraj
+Nagapattinam	163	Nagapattinam		DMK	M. H. Jawahirullah[j]		AIADMK	Thanga Kathiravan
+164	Kilvelur (SC)		CPI(M)	D. Latha		PMK	Vadivel Ravanan
+165	Vedaranyam		DMK	Ma.Me. Pugazhendhi		AIADMK	O. S. Manian
+Tiruvarur	166	Thiruthuraipoondi (SC)		CPI	K. Marimuthu		AIADMK	U. Paladhandayutham
+167	Mannargudi		DMK	T. R. B. Rajaa		AMMK	S. Kamaraj
+168	Thiruvarur		DMK	K. Poondi Kalaivanan		BJP	Govi Chandru
+169	Nannilam		DMK	V. M. S. Mohammed Mubarak[m]		AIADMK	R. Kamaraj
+Thanjavur	170	Thiruvidaimarudur (SC)		DMK	Govi. Chezian		AIADMK	Ilamathi Subramanian
+171	Kumbakonam		DMK	G. Anbalagan		BJP	M. K. R. Ashok Kumar[e]
+172	Papanasam		IUML	A. M. Shahjahan		AIADMK	D. Shanmugaprabhu
+173	Thiruvaiyaru		DMK	Durai. Chandrashekhar		AMMK	V. Karthikeyan
+174	Thanjavur		DMK	Ramanathan		BJP	M. Muruganantham
+175	Orathanadu		DMK	R. Vaithialingam		AIADMK	M. Sekar
+176	Pattukkottai		DMK	K. Annadurai		AIADMK	C. V. Sekar
+177	Peravurani		DMK	N. Ashokkumar		AIADMK	Govi Ilango
+Pudukkottai	178	Gandarvakottai (SC)		CPI(M)	M. Chinndadurai		BJP	C. Udhayakumar
+179	Viralimalai		DMK	K. K. Chellapandian		AIADMK	C. Vijayabhaskar
+180	Pudukkottai		DMK	V. Muthuraja		BJP	N. Ramachandran
+181	Thirumayam		DMK	S. Regupathy		AIADMK	P. K. Vairamuthu
+182	Alangudi		DMK	Siva V. Meyyanathan		AIADMK	D. Vimal
+183	Aranthangi		INC	T. Ramachandran		BJP	Kavitha Srikanth
+Sivaganga	184	Karaikudi		INC	S. Mangudi		AMMK	Dherpoki V. Pandi
+185	Tiruppattur		DMK	K. R. Periyakaruppan		BJP	K. C. Thirumaran[n]
+186	Sivaganga		DMK	Karunas[o]		AIADMK	P. R. Senthilnathan
+187	Manamadurai (SC)		DMK	A. Tamilarasi		BJP	Pon V. Balaganapathy
+Madurai	188	Melur		INC	P. Viswanathan		AIADMK	Periyapullan alias Selvam
+189	Madurai East		DMK	P. Moorthy		AIADMK	K. Mahendran
+190	Sholavandan (SC)		DMK	A. Venkatesan		AIADMK	K. Manickam
+191	Madurai North		DMK	G. Thalapathy		AIADMK	P. Saravanan
+192	Madurai South		DMK	M. Boominathan[h]		BJP	Raama Sreenivasan
+193	Madurai Central		DMK	Palanivel Thiaga Rajan		AIADMK	Sundar C[p]
+194	Madurai West		DMK	Raghu Balaji		AIADMK	Sellur K. Raju
+195	Thiruparankundram		DMK	S. Keerthiga Thangapandi		AIADMK	V. V. Rajan Chellappa
+196	Thirumangalam		DMK	M. Manimaran		AIADMK	R. B. Udhayakumar
+197	Usilampatti		INC	T. Saravanakumar		AIADMK	I. Mahendran
+Theni	198	Andipatti		DMK	A. Maharajan		AIADMK	A. Logirajan
+199	Periyakulam (SC)		VCK	Attral Arasu		AMMK	K. Kathirkamu
+200	Bodinayakanur		DMK	O. Panneerselvam		AIADMK	V. T. Narayansamy
+201	Cumbum		DMK	N. Eramakrishnan		AIADMK	S. T. K. Jakkaiyan
+Virudhunagar	202	Rajapalayam		DMK	S. Thanga Pandian		BJP	Priscilla Pandian[q]
+203	Srivilliputhur (SC)		CPI	P. Mahalingam		AIADMK	M. Chandra Prabha
+204	Sattur		DMK	A. Kadarkarairaj		BJP	Nainar Nagendran
+205	Sivakasi		INC	Ganesan Ashokan		AIADMK	K. T. Rajenthra Bhalaji
+206	Virudhunagar		DMDK	Vijayaprabhakar		AIADMK	V. G. Ganesan
+207	Aruppukkottai		DMK	K. K. S. S. R. Ramachandran		AIADMK	S. Sethupathi
+208	Tiruchuli		DMK	Thangam Thennarasu		AIADMK	M. S. R. Rajavarman
+Ramanathapuram	209	Paramakudi (SC)		DMK	K. K. Kathiravan		AIADMK	S. Muthaiah
+210	Tiruvadanai		INC	Karu Manickam		AIADMK	Keerthika Muniyasamy
+211	Ramanathapuram		DMK	Katharbatcha Muthuramalingam		BJP	K. Nagendran
+212	Mudhukulathur		DMK	R. S. Raja Kannappan		AIADMK	S. Pandi
+Thoothukudi	213	Vilathikulam		DMK	G. V. Markandayan		AIADMK	R. Sathya
+214	Thoothukkudi		DMK	P. Geetha Jeevan		AIADMK	S. T. Chellapandian
+215	Tiruchendur		DMK	Anitha R. Radhakrishnan		BJP	K. R. M. Radhakrishnan
+216	Srivaikuntam		INC	Oorvasi S. Amirtharaj		AIADMK	S. P. Shanmuganathan
+217	Ottapidaram (SC)		DMK	M. C. Shunmugaiah		AMMK	R. Sundararaj
+218	Kovilpatti		DMK	Ka. Karunanithi		AIADMK	Kadambur Raju
+Tenkasi	219	Sankarankovil (SC)		INC	Sangai Ganesan		AIADMK	Dhileepan Jayasankaran
+220	Vasudevanallur (SC)		DMK	E. Raja		BJP	Ananthan Ayyasamy
+221	Kadayanallur		DMK	T. M. Rajendran[h]		AIADMK	C. Krishnamurali
+222	Tenkasi		DMK	Kalai Kathiravan		AIADMK	S. Selvamohandas Pandian
+223	Alangulam		DMK	Manoj Pandian		AIADMK	K. R. P. Prabakaran
+Tirunelveli	224	Tirunelveli		DMK	Su. Subramanian		AIADMK	Thachai N. Ganesaraja
+225	Ambasamudram		INC	V. P. Durai		AIADMK	Isakki Subhaya
+226	Palayamkottai		DMK	M. Abdul Wahab		AIADMK	Syed Sulthan Sumsuddin
+227	Nanguneri		INC	Rubi Manoharan		AMMK	R. Esakkimuthu
+228	Radhapuram		DMK	M. Appavu		BJP	S. P. Balakrishnan
+Kanyakumari	229	Kanniyakumari		DMK	R. Mahesh		AIADMK	Thalavai N. Sundaram
+230	Nagercoil		DMK	S. Austin		BJP	M. R. Gandhi
+231	Colachal		INC	Tharahai Cuthbert		BJP	T. Sivakumar
+232	Padmanabhapuram		CPI(M)	R. Chellasamy		BJP	P. Ramesh
+233	Vilavancode		INC	T. T. Pravin		BJP	S. Vijayadharani
+234	Killiyoor		INC	S. Rajesh Kumar		BJP	Nivin Simon[e]
+
+TVK:
+Perambur - C. Joseph Vijay (TVK president)
+Tiruchi East - C. Joseph Vijay (TVK president)
+T. Nagar - ‘Bussy’ N. Anand (TVK general secretary)
+Villivakkam - Aadhav Arjuna (TVK general secretary, election campaign management)
+Gobichettipalayam - K.A. Sengottaiyan (former AIADMK MLA)
+Mylapore - P. Venkataramanan (TVK treasurer)
+Tiruchengode - K.G. Arunraaj (TVK general secretary, policy and propaganda)
+Thirupparankundram - C.T.R. Nirmal Kumar (TVK joint general secretary)
+Kumarapalayam - C. Vijayalakshmi (TVK deputy general secretary)
+Egmore (SC) - A. Rajmohan (TVK deputy general secretary)
+Lalgudi - Ku.Pa. Krishnan (former Minister)
+Tiruppur North - V. Sathyabama (former MP)
+Thousand Lights - J.C.D. Prabhakar (former AIADMK MLA)
+Tittakudi (SC) - A. Rajasekar
+Saidapet - M. Arul Prakasam (TVK deputy general secretary)
+Valparai (SC) - Dr. A. Sridharan (TVK deputy general secretary)
+R.K. Nagar - N. Maria Wilson
+Kolathur - V.S. Babu (former MLA)
+Sholavandan (SC) - M.V. Karuppiah (former MLA)
+Nanguneri - Reddiapatti Narayanan (former MLA)
+Gummidipoondi - S. Vijayakumar
+Ponneri (SC) - Dr. M.S. Ravi
+Tiruttani - M. Sathyakumar
+Tiruvallur - Dr. T. Arun Kumar
+Poonamallee (SC) - R. Prakasam
+Avadi - R. Rameshkumar
+Maduravoyal - P. Revanth Saran
+Ambattur - G. Balamurugan
+Madhavaram - M.L. Vijay Prabhu
+Thiruvottiyur – N. Senthil Kumar
+Thiru-Vi-Ka-Nagar (SC) – M.R. Pallavi
+Royapuram – K.V. Vijay Thamu
+Harbour – Sinora P.S. Ashok
+Chepauk-Thiruvallikeni – T. Selvam
+Anna Nagar – V.K. Ramkumar
+Virugambakkam – R. Sabarinathan
+Velachery – R. Kumar
+Shozhinganallur – P. Saravanamoorthy
+Alandur – M. Harish
+Sriperumbudur (SC) – K. Thennarasu
+Pallavaram – J. Kamatchi
+Tambaram – D. Sarathkumar
+Chengalpattu – S. Thiyagarajan
+Thiruporur – B. Vijayaraj
+Cheyyur (SC) – K. Mohanraja
+Madurantakam (SC) – E. Ezhil Catherine
+Uthiramerur – J. Munirathinam
+Kancheepuram – R.V. Ranjith Kumar
+Arakkonam (SC) – V. Gandhiraj
+Sholingar – Dr. G. Kapil
+Katpadi – Dr. M. Sudhakar
+Ranipet – I. Thaheera
+Arcot – G. Vijay Mohan
+Vellore – M.M. Vinoth Kannan
+Anaikattu – R. Velmurugan
+Kilvaithinankuppam (SC) – E. Thendral Kumar
+Gudiyattam (SC) – K. Sindhu
+Vaniyambadi – S. Sayed Burhanudeen
+Ambur – P. Imthiyas
+Jolarpet – C. Munisamy
+Tirupattur – Dr. N. Thiruppathi
+Uthangarai (SC) – P. Kumaravel
+Bargur – E. Muralidharan
+Krishnagiri – P. Mukundhan
+Veppanahalli – S.R. Sambangi
+Hosur – M. Ambarish
+Thalli – G. Suresh
+Palacode – R. Gopi
+Pennagaram – C. Gajendran
+Dharmapuri – M. Sivan
+Pappireddippatti – S. Thilavathi
+Harur (SC) – K. Rakesh
+Chengam (SC) – K. Bharathidhasan
+Tiruvannamalai – Arul Arumugam
+Kilpennathur – D. Raja
+Kalasapakkam – C. Elumalai
+Polur – R. Abishek
+Arani – V. Venkatesh Kumar
+Cheyyar – Dusi K. Mohan
+Vandavasi (SC) – M. Udhayakumar
+Gingee – V. Chandrasekaran
+Mailam – A. Vijay Niranjan
+Tindivanam (SC) – S. Sakthivel
+Vanur (SC) – G.P. Suresh
+Villupuram – N. Mohanraj
+Vikravandi – A. Vijay Vadivel
+Tirukkoyilur – Vijay R. Baranibalaji
+Ulundurpettai – M. Sudhakar
+Rishivandiyam – G. Ashok Kumar
+Sankarapuram – A. Jagadeesan
+Kallakurichi (SC) – C. Arul Vignesh
+Gangavalli (SC) – V. Sujatha
+Attur (SC) – R. Selvabharathi
+Yercaud (ST) – J. Lakshmi
+Omalur – R.V. Adhiyaman
+Mettur – K. Selvam
+Edappadi – K. Premkumar
+Sangagiri – Senthilkumar
+Salem West – S. Lakshmanan
+Salem North – K. Sivakumar
+Salem South – A. Vijay Tamilan Parthiban
+Veerapandi – M.S. Palanivel
+Rasipuram (SC) – D. Lokesh Dhanapal
+Senthamangalam (ST) – P. Chandrasekar
+Namakkal – C.S. Dileep
+Paramathi-Velur – A. Nandhakumar
+Erode East – M. Vijay Balaji
+Erode West – K.K. Anand Mohan
+Modakkurichi – D. Shanmugam
+Dharapuram (SC) – S. Gowri Chithra
+Kangeyam – P. Mani
+Perundurai – V.P. Arunachalam
+Bhavani – M.P. Balakrishnan
+Anthiyur – M. Vijay Venkatesh
+Bhavanisagar (SC) – V.P. Tamil Selvi
+Udhagamandalam – R. Ibrahim
+Gudalur (SC) – A. Deepak Sai Kishore
+Coonoor – C. Thangaraju
+Mettuppalayam – N. Sunil Anand
+Avanashi (SC) – S. Kamali
+Tiruppur South – S. Balamurugan
+Palladam – K. Ramkumar
+Sulur – N.M. Sukumar
+Kavundampalayam – R.D. Kanimozhi
+Coimbatore North – V. Sampathkumar
+Thondamuthur – R. Sathish Raju
+Coimbatore South – V. Senthil Kumar
+Singanallur – K.S. Giriprasath
+Kinathukadavu – K. Vignesh
+Pollachi – G. Ramanathan
+Udumalaipettai – G.K. Shankar
+Madathukulam – R. Thirumalai
+Palani – Dr. M. Praveen Kumar
+Oddanchatram – S. Mohan
+Athoor – N. Kalaiselvi
+Nilakkottai (SC) – R. Ayyanar
+Natham – L.N. Ramesh
+Dindigul – G. Nazeer Raja
+Vedasandur – Dr. N. Nagajothi
+Aravakurichi – P. Karthikeyan
+Karur – V.P. Mathiyazhagan
+Krishnarayapuram (SC) – S. Madhan
+Kulithalai – G. Balasubramani
+Manapparai – R. Kathiravan
+Srirangam – S. Ramesh
+Tiruchi West – G. Ramamoorthy
+Thiruverumbur – Navalpattu S. Viji
+Manachanallur – V. Saravanan
+Musiri – M. Vignesh
+Thuraiyur (SC) – M. Ravishankar
+Perambalur (SC) – K. Sivakumar
+Kunnam – M. Revathi
+Ariyalur – M. Sivakumar
+Jayankondam – Kavitha G. Rajendran
+Vridhachalam – S. Vijay
+Neyveli – K. Anand
+Panruti – M. Manikandan
+Cuddalore – B. Rajkumar
+Kurinjipadi – D. Rajkumar
+Bhuvanagiri – T. Mahalingam
+Chidambaram – Dr. N. Pari
+Kattumannarkoil (SC) – Dr. S. Seenuvasan
+Sirkazhi (SC) – C.S. Gopinath
+Mayiladuthurai – S.S. Haroon Rasheeth
+Poompuhar – J. Vijayalayan
+Nagapattinam – M. Sukumar
+Kilvelur (SC) – T.A.P. Senthil Pandiyan
+Vedaranyam – A. Kingsley Gerald
+Thiruthuraipoondi (SC) – S. Pandiyan
+Mannargudi – U.V.M. Rajarajan
+Thiruvarur – V. Veeramani
+Nannilam – S. Prabhakaran
+Thiruvidaimarudur – S. Prabhakaran
+Kumbakonam – R. Vinoth
+Papanasam – U. Azarudeen
+Thiruvaiyaru – M. Manikandan
+Thanjavur – R. Vijay Saravanan
+Orathanadu – K. Aravind
+Pattukkottai – C. Madhan
+Peravurani – D. Chandrakaandeeban
+Gandharvakottai (SC) – N. Subramanian
+Viralimalai – P. Murugesan
+Pudukkottai – K.M. Shareef
+Thirumayam – C. Sindhamani
+Alangudi – Durai Kandasamy
+Aranthangi – J. Mohamad Parvez
+Karaikudi – Dr. T.K. Prabhu
+Tiruppattur – Srinivasa Sethupathi
+Sivaganga – Kulandhai Rani Nachiar
+Manamadurai (SC) – D. Ilangovan
+Melur – A. Madurai Veeran
+Madurai East – S. Karthikeyan
+Madurai North – A. Kallanai
+Madurai South – J. Jo Peter
+Madurai Central – V.M.S. Mustafa
+Madurai West – S.R. Thangapandi
+Thirumangalam – N. Sathishkumar
+Usilampatti – M. Vijay
+Andipatti – V. Pandi
+Periyakulam (SC) – G. Sabari
+Bodinayakanur – S. Prakash
+Cumbum – P.L.A. Jaganath Mishra
+Rajapalayam – K. Jagadeeswari
+Srivilliputhur (SC) – A. Karthik
+Sattur – M. Ajith
+Sivakasi – S. Keerthana
+Virudhunagar – S.P. Selvam
+Aruppukkottai – K. Karthik Kumar
+Tiruchuli – S. Samayan
+Paramakudi (SC) – G. Gopirajan
+Tiruvadanai – V.K. Rajiv
+Ramanathapuram – E.A. Sahul Hameed
+Mudukulathur – B. Malarvizhi Jayabala
+Vilathikulam – P. Kasiram
+Thoothukudi – A. Srinath
+Tiruchendur – J. Murugan
+Srivaikuntam – G. Saravanan
+Ottapidaram (SC) – P. Madhanraja
+Kovilpatti – S. Balasubramanian
+Sankarankovil (SC) – C. Ramarajan
+Vasudevanallur (SC) – R. Amudha Rani
+Kadayanallur – R.K. Abdul Jalil
+Tenkasi – A. Rajaprakash
+Alangulam – V. Vipin Chakravarthi
+Tirunelveli – R.S. Murugan
+Ambasamudram – S. Rajagopal
+Palayamkottai – S. Maria John
+Radhapuram – K. Satheesh Christopher
+Kanniyakumari – S.R. Madhavan
+Nagercoil – G. Perveen King
+Colachel – Dr. Prem Alex Lawrence
+Padmanabhapuram – S. Krishnakumar
+Vilavancode – K. Michael Kumar
+Killiyoor – S. Sabeen
+
+NTK:
+1 Sridhar 1 - Gummidipoondi 2 Rajathi 2 - Ponneri 3 Chandran 3 - Tiruttani 4 Senthil Kumar 4 - Thiruvallur 5 Mehala 5 - Poonamallee 6 Punitha 6 - Avadi 7 Revathi 7 - Maduravoyal 8 Aadhithan 8 - Ambattur 9 Kruthika Elumalai 9 - Madavaram 10 Sathya Baskar 10 - Thiruvottiyur 11 Vennila Thayumanavan 11 - Dr.Radhakrishnan Nagar 12 Vetrithamizhan 12 - Perambur 13 Soundrapandian 13 - Kolathur 14 Roshini 14 - Villivakkam 15 Jegadeesh Chander 15 - Thiru-Vi-Ka-Nagar 16 Saranya 16 - Egmore 17 Babumailan 17 - Royapuram 18 Rufhkhan Sheriff 18 - Harbour 19 Ayisha Beham 19 - Chepauk-Thiruvallikeni 20 Kalanjiyam 20 - Thousand Lights 21 C. Shankar 21 - Anna Nagar 22 Santhosh 22 - Virugampakkam 23 Srividhya 23 - Saidapet 24 Anusha Vijayakumar 24 - Thiyagarayanagar 25 Arun 25 - Mylapore 26 Keerthana 26 - Velachery 27 jayalakshmi Raman 27 - Shozhinganallur 28 Mahalakshmi 28 - Alandur 29 Sindhu 29 - Sriperumbudur 30 Karthikeyan 30 - Pallavaram 31 Tamilselvi 31 - Tambaram 32 Amutha Nambiyar 32 - Chengalpattu 33 Ambethrajan 33 - Thiruporur 34 Swathi Lakshmi 34 - Cheyyur 35 Janaki Raman 35 - Madurantakam 36 Maram maasilamani 36 - Uthiramerur 37 Vetriselvi 37 - Kancheepuram 38 Raj Kumar 38 - Arakkonam 39 Ashok Kumar 39 - Sholingur 40 Thirukumaran 40 - Katpadi 41 Tharikka salman 41 - Ranipet 42 Archaha 42 - Arcot 43 Soniya 43 - Vellore 44 Ravi Kumar 44 - Anaikattu 45 Kalaiyendri 45 - Kilvaithinankuppam 46 Imalan 46 - Gudiyattam 47 Murugesan 47 - Vaniyambadi 48 Afsia Thoufic Bikrid 48 - Ambur 49 Sasi Rekha 49 - Jolarpet 50 Aarumugam 50 - Tirupattur 51 Megala 51 - Uthangarai 52 Kavin 52 - Bargur 53 Suganthi Parthiban 53 - Krishnagiri 54 Nagaraj 54 - Veppanahalli 55 Stalin 55 - Hosur 56 Narasimman 56 - Thalli 57 Boopathy 57 - Palacode 58 Palaniyammal 58 - Pennagaram 59 Santha Lakshmi 59 - Dharmapuri 60 Archana Tamil Aruvi 60 - Pappireddippatti 61 Anitha Annadurai 61 - Harur 62 J Shobha 62 - Chengam 63 Vignesh 63 - Tiruvannamalai 64 V. Loganathan 64 - Kilpennathur 65 Seetha 65 - Kalasapakkam 66 umadevi prakash 66 - Polur 67 Thavamani Ramesh 67 - Arani 68 Tamil Selvan 68 - Cheyyar 69 Ganesh 69 - Vandavasi 70 Krishnan 70 - Gingee 71 Vijay Vikram 71 - Mailam 72 Petchimuthu 72 - Tindivanam 73 Karikazhan 73 - Vanur 74 Abhinaya Ponnivalavan 74 - Villupuram 75 Suba chandrasekaran 75 - Vikravandi 76 Hemarajan 76 - Tirukkoyilur 77 Logeshwari 77 - Ulundurpettai 78 Radhika 78 - Rishivandiyam 79 Ramesh 79 - Sankarapuram 80 Nagammal 80 - Kallakurichi 81 Abirami Neduncheralathan 81 - Gangavalli 82 Monisha chinnadurai 82 - Attur 83 Palanisamy 83 - Yercaud 84 Siva Sakthi 84 - Omalur 85 Vidhya Veerapan 85 - Mettur 86 Priyadharshini 86 - Edappadi 87 Nithya Arul 87 - Sankari 88 Suresh Kumar 88 - Salem (West) 89 Gunaseela 89 - Salem (North) 90 Sophiya 90 - Salem (South) 91 Rajesh Kumar 91 - Veerapandi 92 Sasikala 92 - Rasipuram 93 Ponnumani 93 - Senthamangalam 94 Praveen 94 - Namakkal 95 Aravindh 95 - Paramathi-Velur 96 Revathi 96 - Tiruchengodu 97 Yuvarani 97 - Kumarapalayam 98 Thandava Moorthy 98 - Erode (East) 99 Vijay 99 - Erode (West) 100 Arun 100 - Modakkurichi 101 divya 101 - Dharapuram (SC) 102 Karmegan 102 - Kangayam 103 Logu 103 - Perundurai 104 Menaka Devi 104 - Bhavani 105 Anandhi 105 - Anthiyur 106 Seetha Lakshmi 106 - Gobichettipalayam 107 Soundarya 107 - Bhavanisagar 108 Ragupathu Deepan 108 - Udhagamandalam 109 Karthik Ramakrishnan 109 - Gudalur 110 dheenu 110 - Coonoor 111 Gopalakrishnan 111 - Mettuppalayam 112 Menaga 112 - Avanashi (SC) 113 Abhinaya 113 - Tiruppur (North) 114 Perarivalan 114 - Tiruppur (South) 115 Thamizhinian 115 - Palladam 116 Rajasekhar 116 - Sulur 117 Kalamani 117 - Kavundampalayam 118 Narmatha 118 - Coimbatore (North) 119 Rajabunisha 119 - Thondamuthur 120 Perarivalan 120 - Coimbatore (South) 121 Nehruji 121 - Singanallur 122 Banupriya senthil kumar 122 - Kinathukadavu 123 Senthil 123 - Pollachi 124 Uma Devi 124 - Valparai 125 Ram Kumar 125 - Udumalaipettai 126 Radhamani 126 - Madathukulam 127 Murugeshwari 127 - Palani 128 Ragupathi 128 - Oddanchatram 129 Simon Justin 129 - Athoor 130 Kailai Rajan 130 - Nilakkottai 131 Alagammal 131 - Natham 132 Mutharasi 132 - Dindigul 133 Hussain 133 - Vedasandur 134 Narain 134 - Aravakurichi 135 Karuppaiah 135 - Karur 136 Sathya 136 - Krishnarayapuram 137 Nanmaran 137 - Kulithalai 138 Arunagiri 138 - Manapparai 139 Dharmaraj 139 - Srirangam 140 Bhuvaneshwari 140 - Tiruchirappalli (West) 141 Krishnasamy 141 - Tiruchirappalli (East) 142 Jallikattu Rajesh 142 - Thiruverumbur 143 Madhan 143 - Lalgudi 144 Thenmozhi 144 - Manachanallur 145 Bakya Lakshmi 145 - Musiri 146 Gowsalya Suresh 146 - Thuraiyur 147 Johnsy Rani 147 - Perambalur 148 Keerthi vasan 148 - Kunnam 149 Pugalendhi 149 - Ariyalur 150 Revathi Kalaimani 150 - Jayankondam 151 Mahalakshmi 151 - Tittagudi (SC) 152 Amudha nambi 152 - Vridhachalam 153 Veeramani 153 - Neyveli 154 Banu Priya 154 - Panruti 155 sarasu 155 - Cuddalore 156 Sengolan 156 - Kurinjipadi 157 Sumathi Srinivasan 157 - Bhuvanagiri 158 Tamil 158 - Chidambaram 159 Sivajothi 159 - Kattumannarkoil(SC) 160 Subash 160 - Sirkazhi 161 Kasiraman 161 - Mayiladuthurai 162 Ilaiya Nagulan 162 - Poompuhar 163 Fathima Farhana 163 - Nagapattinam 164 Karthiga 164 - Kilvelur 165 Idumbavanam Karthik 165 - Vedaranyam 166 Vinothini 166 - Thiruthuraipoondi 167 Bharathi Selvan 167 - Mannargudi 168 Ashwini 168 - Thiruvarur 169 Theanmozhi Dileep Kumar 169 - Nannilam 170 Divya Bharathi 170 - Thiruvidaimarudur 171 Ananth 171 - Kumbakonam 172 Aneesh Fathima 172 - Papanasam 173 Senthilnathan 173 - Thiruvaiyaru 174 Krishna Kumar 174 - Thanjavur 175 Thirumurugan 175 - Orathanadu 176 Kannan 176 - Pattukkottai 177 Rajaram 177 - Peravurani 178 Nadiya Tamilselvan 178 - Gandharvakottai 179 Sathya Laxshmi 179 - Viralimalai 180 Ezhilarasi 180 - Pudukkottai 181 Lakshmi Srinivasan 181 - Thirumayam 182 Rajaraman 182 - Alangudi 183 Muthu Lakshmi 183 - Aranthangi 184 Seeman 184 - Karaikudi 185 Ramya mohan 185 - Tiruppattur 186 Indhuja Ramesh 186 - Sivaganga 187 Shanmugapriya 187 - Manamadurai 188 Kottai Kumar 188 - Melur 189 Selvam 189 - Madurai East 190 Nagalakshmi Thirumaran 190 - Sholavandan 191 Thirunavukkarasu 191 - Madurai North 192 சுமதி 192 - Madurai South 193 Durga kumaraswamy 193 - Madurai Central 194 Vignesh kumar 194 - Madurai West 195 Sathya devi 195 - Thiruparankundram 196 Munis 196 - Thirumangalam 197 Abirami Dhanapal 197 - Usilampatti 198 Arunadevi 198 - Andipatti 199 Vimala 199 - Periyakulam 200 Kalaiyarasu 200 - Bodinayakanur 201 Anbu Selvi 201 - Cumbum 202 Karthik 202 - Rajapalayam 203 Karikala pandiyan 203 - Srivilliputhur 204 Anandha Raja 204 - Sattur 205 Dayana 205 - Sivakasi 206 Laxmanan 206 - Virudhunagar 207 Manimaran 207 - Aruppukkottai 208 Karthick raja 208 - Tiruchuli 209 Ezhil izhavarasi 209 - Paramakudi 210 Premnath 210 - Tiruvadanai 211 Muthu kesavan 211 - Ramanathapuram 212 Chandra Prabha 212 - Mudhukulathur 213 Balaji 213 - Vilathikulam 214 Jacob Abhishek devadasan 214 - Thoothukkudi 215 Obiliya 215 - Tiruchendur 216 Shanmugasundaram 216 - Srivaikuntam 217 Anusiya 217 - Ottapidaram 218 Pandi 218 - Kovilpatti 219 Kavitha 219 - Sankarankovil 220 Isai Mathivanan 220 - Vasudevanallur 221 Abubakar Siddique 221 - Kadayanallur 222 Pushpalatha 222 - Tenkasi 223 Palraj 223 - Alangulam 224 Sathya 224 - Tirunelveli 225 Sivasankaran 225 - Ambasamudram 226 Sankara narayanan 226 - Palayamkottai 227 Selvam 227 - Nanguneri 228 Girija Thamaraipandiyan 228 - Radhapuram 229 Maria Jenifer 229 - Kanniyakumari 230 Muthukumar 230 - Nagercoil 231 Ancy Sobha Rani 231 - Colachel 232 Seelan 232 - Padmanabhapuram 233 Maria Stella 233 - Vilavancode 234 Himler 234 - Killiyoor
+
+AIPTMMK
+1	
+R.Bakthavatchalam
+Male
+Avadi	
+Coconut farm
+12th Grade (HSC / +2)
+2	
+J.Venkatesan
+Male
+Maduravoyal	
+Coconut farm
+10th Grade (SSLC)
+3	
+C.Christy
+Male
+Thiru-Vi-Ka-Nagar	
+Coconut farm
+10th Grade (SSLC)
+4	
+T.Magizhanban
+Male
+Egmore	
+Coconut farm
+Not Specified
+5	
+K.Vishwanathan
+Male
+Shozhinganallur	
+Coconut farm
+Master's Degree
+6	
+N.Hari Krishnan
+Male
+Alandur	
+Coconut farm
+Not Specified
+7	
+D.Purushothaman
+Male
+Sriperumbudur	
+Coconut farm
+Bachelor's Degree
+8	
+R.Rajkumar
+Male
+Pallavaram	
+Coconut farm
+Not Specified
+9	
+Murugavel. A
+Male
+Cheyyur	
+Coconut farm
+Bachelor's Degree
+10	
+R.Sugan
+Male
+Madurantakam	
+Coconut farm
+Diploma / ITI
+11	
+P.Venkatesan
+Male
+Kancheepuram	
+Coconut farm
+Diploma / ITI
+12	
+V.Chandran
+Male
+Katpadi	
+Coconut farm
+10th Grade (SSLC)
+13	
+Anandalai Thangaraj. M
+Male
+Kilvaithinankuppam	
+Coconut farm
+Master's Degree
+14	
+K.Thabithal
+Female
+Gudiyattam	
+Coconut farm
+Master's Degree
+15	
+Haroon Rasheed Badu
+Male
+Ambur	
+Coconut farm
+7th Grade
+16	
+Chennakrishnan. V
+Male
+Pappireddipatti	
+Coconut farm
+12th Grade (HSC / +2)
+17	
+Sekar Nayakar I M
+Male
+Mailam	
+Coconut farm
+Bachelor's Degree
+18	
+Udhayakumar R
+Male
+Ulundurpettai	
+Coconut farm
+Bachelor's Degree
+19	
+Ranganathan N
+Male
+Rishivandiyam	
+Coconut farm
+10th Grade (SSLC)
+20	
+Nadarajan K
+Male
+Sankarapuram	
+Coconut farm
+Not Specified
+21	
+Suresh. L
+Male
+Edappadi	
+Coconut farm
+10th Grade (SSLC)
+22	
+C Jaganathan
+Male
+Senthamangalam	
+Coconut farm
+Diploma / ITI
+23	
+Palanisamy M P
+Male
+Namakkal	
+Coconut farm
+Diploma / ITI
+24	
+Vijay Suryabhalaaji K R
+Male
+Paramathi-Velur	
+Coconut farm
+Bachelor's Degree
+25	
+Rakki
+Male
+Bhavanisagar	
+Coconut farm
+Not Specified
+26	
+Dhamotharanv
+Male
+Mettuppalayam	
+Coconut farm
+10th Grade (SSLC)
+27	
+Pappa Muthulakshmi.P
+Female
+Sulur	
+Coconut farm
+Master's Degree
+28	
+Malliga.M
+Female
+Kavundampalayam	
+Coconut farm
+Master's Degree
+29	
+K.Raghul Gandhi
+Male
+Coimbatore (North)	
+Coconut farm
+10th Grade (SSLC)
+30	
+N.R.Appathurai
+Male
+Singanallur	
+Coconut farm
+Bachelor's Degree
+31	
+G.Anbalagan
+Male
+Nilakkottai	
+Coconut farm
+Doctorate (Ph.D / MD)
+32	
+Ramuthevar. P
+Male
+Dindigul	
+Coconut farm
+5th Grade
+33	
+Asiya Begum
+Female
+Aravakurichi	
+Coconut farm
+Not Specified
+34	
+Vijay .A
+Male
+Srirangam	
+Coconut farm
+Bachelor's Degree
+35	
+C.Nanda Kumar
+Male
+Tiruchirappalli (East)	
+Coconut farm
+Master's Degree
+36	
+Josephin
+Female
+Lalgudi	
+Coconut farm
+10th Grade (SSLC)
+37	
+Rajkumar S
+Male
+Ariyalur	
+Coconut farm
+Not Specified
+38	
+Palanivel R
+Male
+Tittakudi	
+Coconut farm
+Not Specified
+39	
+S.Ramasamy
+Male
+Cuddalore	
+Coconut farm
+10th Grade (SSLC)
+40	
+Dhanasekaran. M
+Male
+Chidambaram	
+Coconut farm
+Bachelor's Degree
+41	
+Malathi.A
+Female
+Sirkazhi	
+Coconut farm
+Not Specified
+42	
+Lingeswaran. M
+Male
+Vedaranyam	
+Coconut farm
+Bachelor's Degree
+43	
+Rasupillai.S
+Male
+Mannargudi	
+Coconut farm
+5th Grade
+44	
+Raja. S
+Male
+Nannilam	
+Coconut farm
+5th Grade
+45	
+R.Ravi
+Male
+Peravurani	
+Coconut farm
+9th Grade
+46	
+Karthika Prakash
+Female
+Viralimalai	
+Coconut farm
+Master's Degree
+47	
+Raja.K
+Male
+Thirumayam	
+Coconut farm
+Bachelor's Degree
+48	
+D.Pushparaj
+Male
+Alangudi	
+Coconut farm
+10th Grade (SSLC)
+49	
+Kalimuthu. A
+Male
+Karaikudi	
+Coconut farm
+Bachelor's Degree
+50	
+Umadevi. S
+Female
+Tiruppattur	
+Coconut farm
+Bachelor's Degree
+51	
+Muruganantham Guru
+Male
+Sivaganga	
+Coconut farm
+Bachelor's Degree
+52	
+Thilagaraj.K
+Male
+Manamadurai	
+Coconut farm
+Master's Degree
+53	
+Soniagandhi
+Female
+Melur	
+Coconut farm
+Diploma / ITI
+54	
+Balamurugan.K
+Male
+Sholavandan	
+Coconut farm
+Bachelor's Degree
+55	
+Sakkaravarthy P
+Male
+Madurai Central	
+Coconut farm
+Bachelor's Degree
+56	
+Thanapandian. T
+Male
+Thiruparankundram	
+Coconut farm
+5th Grade
+57	
+Jeevitha Nachiyar.B
+Female
+Thirumangalam	
+Coconut farm
+Bachelor's Degree
+58	
+Ayyappan. P
+Male
+Usilampatti	
+Coconut farm
+Bachelor's Degree
+59	
+Chellapandiyan.S
+Male
+Andipatti	
+Coconut farm
+Master's Degree
+60	
+Padmanabhan.N
+Male
+Bodinayakanur	
+Coconut farm
+Master's Degree
+61	
+Harish. A
+Male
+Rajapalayam	
+Coconut farm
+Bachelor's Degree
+62	
+Chandra.M
+Male
+Srivilliputhur	
+Coconut farm
+Not Specified
+63	
+Esakkiraja. K
+Male
+Sattur	
+Coconut farm
+Not Specified
+64	
+Ganesan M
+Male
+Sivakasi	
+Coconut farm
+9th Grade
+65	
+Dharmaraj. P
+Male
+Aruppukkottai	
+Coconut farm
+Not Specified
+66	
+Murugesapandian.T
+Male
+Tiruchuli	
+Coconut farm
+12th Grade (HSC / +2)
+67	
+Amirtha. M
+Female
+Paramakudi	
+Coconut farm
+Bachelor's Degree
+68	
+Dr.R.Ramkumar
+Male
+Mudhukulathur	
+Coconut farm
+Bachelor's Degree
+69	
+C.Ponpandi
+Male
+Vilathikulam	
+Coconut farm
+10th Grade (SSLC)
+70	
+Yesadurai S
+Male
+Thoothukkudi	
+Coconut farm
+5th Grade
+71	
+Gopalakrishnan
+Male
+Tiruchendur	
+Coconut farm
+10th Grade (SSLC)
+72	
+Kannan.S
+Male
+Kovilpatti	
+Coconut farm
+10th Grade (SSLC)
+73	
+Vasanthi Murugesan
+Female
+Sankarankovil	
+Coconut farm
+Master's Degree
+74	
+A.Ponnuthai
+Female
+Vasudevanallur	
+Coconut farm
+Master's Degree
+75	
+M.Poosa Durai
+Male
+Tenkasi	
+Coconut farm
+Bachelor's Degree
+76	
+Madasamy
+Male
+Alangulam	
+Coconut farm
+10th Grade (SSLC)
+77	
+Dr.S.Vellai Durai
+Male
+Nanguneri	
+Coconut farm
+Doctorate (Ph.D / MD)
+78	
+Christ Miller. S
+Male
+Colachal	
+Coconut farm
+Master's Degree
+
+
+
